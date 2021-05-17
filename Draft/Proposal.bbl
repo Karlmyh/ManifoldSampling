@@ -1,0 +1,196 @@
+\begin{thebibliography}{10}
+
+\bibitem{IoffeAD1979}
+Ioffe A.D.
+\newblock Necessary and sufficient conditions for a local minimum, 1: A
+  reduction theorem and first-order con- ditions.
+\newblock {\em SIAM J Control Optim 17:245-250}, 1979.
+
+\bibitem{distributedcontrol}
+R~Arastoo.
+\newblock Optimal sparse output feedback controller design: A rank constrained
+  optimization approach.
+\newblock {\em https://arxiv.org/pdf/1412.8236.pdf}, 2014.
+
+\bibitem{MM}
+D.~P. Bertsekas.
+\newblock Constrained optimization and lagrange multiplier methods.
+\newblock {\em New York Academic Press}, 1982.
+
+\bibitem{proximal}
+N.~Parikh.~S. Boyd.
+\newblock Proximal algorithms.
+\newblock {\em Foundations and Trends in Optimization}, 2013.
+
+\bibitem{CharalambousC}
+Charalambous C.
+\newblock Acceleration of the least pth- algorithm for minimax optimization
+  with engineering applications.
+\newblock {\em Math Program}, 1979.
+
+\bibitem{dfols}
+Fiala J. Marteau~B. Cartis, C. and L.~Roberts.
+\newblock Improving the flexibility and robustness of model-based
+  derivative-free optimization solvers.
+\newblock {\em ACM Transactions on Mathematical Software}, 45:3:32:1--32:41,
+  2019.
+
+\bibitem{lars}
+Bradley Efron, Trevor Hastie, Iain Johnstone, and Robert Tibshirani.
+\newblock {Least angle regression}.
+\newblock {\em The Annals of Statistics}, 32(2):407 -- 499, 2004.
+
+\bibitem{comp21}
+R.~Fletcher.
+\newblock A model algorithm for composite nondifferentiable optimization
+  problems, in nondifferential and variational techniques in optimization.
+\newblock {\em D. C. Sorensen and R. J.-B. Wets, eds., vol. 17 of Math-
+  ematical Programming Studies, Springer}, 1982.
+
+\bibitem{comp22}
+R.~Fletcher.
+\newblock Second order corrections for non-differentiable optimization.
+\newblock {\em Numerical Analysis, Springer}, 1982.
+
+\bibitem{NonlinearEqLInfty}
+Wajeb Gharibi.
+\newblock A dual approach for solving nonlinear infinite-norm minimization
+  problems with applications in separable cases.
+\newblock {\em https://arxiv.org/pdf/1106.0851.pdf}, 2011.
+
+\bibitem{bundle2}
+W.~L. Hare and C.~Sagastiza ́bal.
+\newblock A redistributed proximal bundle method for nonconvex optimization.
+\newblock {\em SIAM Journal on Optimization}, 2010.
+
+\bibitem{bundlefree1}
+N.~Karmitsa and A.~M. Bagirov.
+\newblock Limited memory discrete gradient bundle method for nonsmooth
+  derivative-free optimization.
+\newblock {\em Optimization, 61}, 2012.
+
+\bibitem{benchmark}
+Napsu Karmitsa, K.~Miettinen, and Marko Makela.
+\newblock New limited memory bundle method for large-scale nonsmooth
+  optimization.
+\newblock {\em Optimization Methods and Software - OPTIM METHOD SOFTW},
+  19:673--692, 12 2004.
+
+\bibitem{NonlinearEqLp}
+Andre~A. Keller.
+\newblock lp-norm minimization method for solving nonlinear systems of
+  equations.
+\newblock {\em WSEAS TRANSACTIONS on MATHEMATICS}, 2014.
+
+\bibitem{proximalauglag}
+Neil K. Dhingra. Sei~Zhen Khong and Mihailo~R. Jovanovic.
+\newblock The proximal augmented lagrangian method for nonsmooth composite
+  optimization.
+\newblock {\em https://arxiv.org/pdf/1610.04514.pdf}, 2016.
+
+\bibitem{manifoldpiecewiselinear}
+K.~A. Khan.~J. Larson and S.~M. Wild.
+\newblock Manifold sampling for optimization of nonconvex functions that are
+  piecewise linear compositions of smooth components.
+\newblock {\em SIAM Journal on Optimization 28}, 2018.
+
+\bibitem{grasam2}
+J.~V. Burke. A.~S. Lewis and M.~L. Overton.
+\newblock Approximating subdifferentials by ran- dom sampling of gradients.
+\newblock {\em Mathematics of Operations Research}, 2002.
+
+\bibitem{manifoldl1}
+J.~Larson.~M. Menickelly and S.~M. Wild.
+\newblock Manifold sampling for l1 nonconvex optimization.
+\newblock {\em SIAM Journal on Optimization, 26}, 2016.
+
+\bibitem{comp44}
+M.~Menickelly and S.~M. Wild.
+\newblock Derivative-free robust optimization by outer approximations.
+\newblock {\em Mathematical Programming, 179}, 2020.
+
+\bibitem{grasam1}
+J.~V. Burke. F. E. Curtis. A. S. Lewis. M.~L. Overton and L.~E. A.~Simo ̃es.
+\newblock Gradient sampling methods for nonsmooth optimization.
+\newblock {\em Numerical Nonsmooth Optimization}, 2020.
+
+\bibitem{ADMM}
+S.~Boyd. N. Parikh. E. Chu.~B. Peleato and J.~Eckstein.
+\newblock Distributed optimization and statistical learning via the alternating
+  direction method of multipliers.
+\newblock {\em Found. Trends Mach. Learning}, 2011.
+
+\bibitem{bundlefree2}
+G.~Liuzzi. S. Lucidi.~F. Rinaldi and L.~N. Vicente.
+\newblock Trust-region methods for the derivative-free optimization of
+  nonsmooth black-box functions.
+\newblock {\em SIAM Journal on Optimization 29}, 2019.
+
+\bibitem{phaseretrieval}
+John C. Duchi.~Feng Ruan.
+\newblock Solving (most) of a set of quadratic equalities: Composite
+  optimization for robust phase retrieval.
+\newblock {\em https://arxiv.org/abs/1705.02356}, 2017.
+
+\bibitem{accproximal}
+A.~Beck.~M. Teboulle.
+\newblock A fast iterative shrinkage-thresholding algorithm for linear inverse
+  problems.
+\newblock {\em SIAM J. Imaging Sci}, 2009.
+
+\bibitem{Lasso}
+Robert Tibshirani.
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (methodological) 58}, 1996.
+
+\bibitem{ElasticNet}
+Hui Zou.~Hastie Trevor.
+\newblock Regularization and variable selection via the elastic net.
+\newblock {\em Journal of the Royal Statistical Society, Series B. 67}, 2005.
+
+\bibitem{BerkeJV1987}
+Berke~J. V.
+\newblock Second-order necessary and sufficient con- ditions for convex
+  composite ndo.
+\newblock {\em Math Program 38:287-302}, 1987.
+
+\bibitem{comp55}
+S.~M. Wild.
+\newblock Solving derivative-free nonlinear least squares problems with
+  pounders, in advances and trends in optimization with engineering
+  applications.
+\newblock {\em SIAM}, 2017.
+
+\bibitem{comp56}
+R.~Womersley and R.~Fletcher.
+\newblock An algorithm for composite nonsmooth optimiza- tion problems.
+\newblock {\em Journal of Optimization Theory and Applications}, 1986.
+
+\bibitem{Lagrange}
+Jeyakumar V.~Yang XQ.
+\newblock Convex composite multi- objective nonsmooth programming.
+\newblock {\em Math Program 59}, 1993.
+
+\bibitem{lowcomplexity}
+Xiaowei Zhou. Can Yang. Hongyu Zhao.~Weichuan Yu.
+\newblock Low-rank modeling and its applications in image analysis.
+\newblock {\em ACM Computing Surveys 47}, 2014.
+
+\bibitem{manifold}
+J.~Larson. M. Menickelly.~Baoyu Zhou.
+\newblock Manifold sampling for optimizing nonsmooth nonconvex compositions.
+\newblock {\em https://arxiv.org/abs/2011.01283}, 2020.
+
+\bibitem{bundle3}
+W.~L. Hare. C.~Sagastiza ́bal and M.~Solodov.
+\newblock A proximal bundle method for nonsmooth nonconvex functions with
+  inexact information.
+\newblock {\em Computational Optimization and Applications, 63}, 2016.
+
+\bibitem{bundle}
+M.~Ma ̈kela ̈.
+\newblock Survey of bundle methods for nonsmooth optimization.
+\newblock {\em Optimization Methods and Software}, 2002.
+
+\end{thebibliography}

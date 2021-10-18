@@ -1,0 +1,217 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Lasso}
+\bibauthor{TIBSHIRANI R}\@. \bibtitle{Regression Shrinkage and Selection via
+  the lasso}\bibmark{[J]}\@. \bibjournal{Journal of the Royal Statistical
+  Society. Series B (methodological) 58}\@, \bibyear{1996}\@.
+
+\bibitem{ElasticNet}
+\bibauthor{ZOU H\@, TREVOR H}\@. \bibtitle{Regularization and Variable
+  Selection via the Elastic Net}\bibmark{[J]}\@. \bibjournal{Journal of the
+  Royal Statistical Society, Series B. 67}\@, \bibyear{2005}\@.
+
+\bibitem{NonlinearEqLInfty}
+\bibauthor{GHARIBI W}\@. \bibtitle{A Dual Approach for Solving Nonlinear
+  Infinite-Norm Minimization Problems with Applications in Separable
+  Cases}\bibmark{[J]}\@. \bibjournal{https://arxiv.org/pdf/1106.0851.pdf}\@,
+  \bibyear{2011}\@.
+
+\bibitem{CharalambousC}
+\bibauthor{C C}\@. \bibtitle{Acceleration of the least pth- algorithm for
+  minimax optimization with engineering applications}\bibmark{[J]}\@.
+  \bibjournal{Math Program}\@, \bibyear{1979}\@.
+
+\bibitem{distributedcontrol}
+\bibauthor{ARASTOO R}\@. \bibtitle{Optimal Sparse Output Feedback Controller
+  Design: A Rank Constrained Optimization Approach}\bibmark{[J]}\@.
+  \bibjournal{https://arxiv.org/pdf/1412.8236.pdf}\@, \bibyear{2014}\@.
+
+\bibitem{lowcomplexity}
+\bibauthor{ZHOU. X\@, YANG. C\@, ZHAO. H, et~al}\@. \bibtitle{Low-Rank Modeling
+  and Its Applications in Image Analysis}\bibmark{[J]}\@. \bibjournal{ACM
+  Computing Surveys 47}\@, \bibyear{2014}\@.
+
+\bibitem{phaseretrieval}
+\bibauthor{DUCHI. J~C\@, RUAN F}\@. \bibtitle{Solving (most) of a set of
+  quadratic equalities: Composite optimization for robust phase
+  retrieval}\bibmark{[J]}\@. \bibjournal{https://arxiv.org/abs/1705.02356}\@,
+  \bibyear{2017}\@.
+
+\bibitem{NonlinearEqLp}
+\bibauthor{KELLER A~A}\@. \bibtitle{lp-Norm Minimization Method for Solving
+  Nonlinear Systems of Equations}\bibmark{[J]}\@. \bibjournal{WSEAS
+  TRANSACTIONS on MATHEMATICS}\@, \bibyear{2014}\@.
+
+\bibitem{IoffeAD1979}
+\bibauthor{IOFFE A}\@. \bibtitle{Necessary and sufficient conditions for a
+  local minimum, 1: A reduction theorem and first-order con-
+  ditions}\bibmark{[J]}\@. \bibjournal{SIAM J Control Optim 17:245-250}\@,
+  \bibyear{1979}\@.
+
+\bibitem{BerkeJV1987}
+\bibauthor{BERKE J~V}\@. \bibtitle{Second-order necessary and sufficient con-
+  ditions for convex composite NDO.}\bibmark{[J]}\@. \bibjournal{Math Program
+  38:287-302}\@, \bibyear{1987}\@.
+
+\bibitem{Lagrange}
+\bibauthor{JEYAKUMAR V\@, YANG X}\@. \bibtitle{Convex composite multi-
+  objective nonsmooth programming}\bibmark{[J]}\@. \bibjournal{Math Program
+  59}\@, \bibyear{1993}\@.
+
+\bibitem{comp21}
+\bibauthor{FLETCHER R}\@. \bibtitle{A model algorithm for composite
+  nondifferentiable optimization problems, in Nondifferential and Variational
+  Techniques in Optimization}\bibmark{[J]}\@. \bibjournal{D. C. Sorensen and R.
+  J.-B. Wets, eds., vol. 17 of Math- ematical Programming Studies, Springer}\@,
+  \bibyear{1982}\@.
+
+\bibitem{comp22}
+\bibauthor{FLETCHER R}\@. \bibtitle{Second order corrections for
+  non-differentiable optimization}\bibmark{[J]}\@. \bibjournal{Numerical
+  Analysis, Springer}\@, \bibyear{1982}\@.
+
+\bibitem{comp56}
+\bibauthor{WOMERSLEY R\@, FLETCHER R}\@. \bibtitle{An algorithm for composite
+  nonsmooth optimiza- tion problems}\bibmark{[J]}\@. \bibjournal{Journal of
+  Optimization Theory and Applications}\@, \bibyear{1986}\@.
+
+\bibitem{proximal}
+\bibauthor{PARIKH. N\@, BOYD S}\@. \bibtitle{Proximal
+  Algorithms}\bibmark{[J]}\@. \bibjournal{Foundations and Trends in
+  Optimization}\@, \bibyear{2013}\@.
+
+\bibitem{accproximal}
+\bibauthor{BECK. A\@, TEBOULLE M}\@. \bibtitle{A fast iterative
+  shrinkage-thresholding algorithm for linear inverse problems}\bibmark{[J]}\@.
+  \bibjournal{SIAM J. Imaging Sci}\@, \bibyear{2009}\@.
+
+\bibitem{ADMM}
+\bibauthor{BOYD. S\@, PARIKH. N\@, CHU. E, et~al}\@. \bibtitle{Distributed
+  optimization and statistical learning via the alternating direction method of
+  multipliers}\bibmark{[J]}\@. \bibjournal{Found. Trends Mach. Learning}\@,
+  \bibyear{2011}\@.
+
+\bibitem{MM}
+\bibauthor{BERTSEKAS D~P}\@. \bibtitle{Constrained optimization and Lagrange
+  multiplier methods}\bibmark{[J]}\@. \bibjournal{New York Academic Press}\@,
+  \bibyear{1982}\@.
+
+\bibitem{proximalauglag}
+\bibauthor{K. N\@, SEI D\@, KHONG Z, et~al}\@. \bibtitle{The proximal augmented
+  Lagrangian method for nonsmooth composite optimization}\bibmark{[J]}\@.
+  \bibjournal{https://arxiv.org/pdf/1610.04514.pdf}\@, \bibyear{2016}\@.
+
+\bibitem{bundle}
+\bibauthor{MAKELA M}\@. \bibtitle{Survey of bundle methods for nonsmooth
+  optimization}\bibmark{[J]}\@. \bibjournal{Optimization Methods and
+  Software}\@, \bibyear{2002}\@.
+
+\bibitem{bundle2}
+\bibauthor{HARE W~L\@, ́BAL C~S}\@. \bibtitle{A redistributed proximal bundle
+  method for nonconvex optimization}\bibmark{[J]}\@. \bibjournal{SIAM Journal
+  on Optimization}\@, \bibyear{2010}\@.
+
+\bibitem{bundle3}
+\bibauthor{HARE. W~L\@, ́BAL C~S\@, SOLODOV M}\@. \bibtitle{A proximal bundle
+  method for nonsmooth nonconvex functions with inexact
+  information}\bibmark{[J]}\@. \bibjournal{Computational Optimization and
+  Applications, 63}\@, \bibyear{2016}\@.
+
+\bibitem{bundlefree1}
+\bibauthor{KARMITSA N\@, BAGIROV A~M}\@. \bibtitle{Limited memory discrete
+  gradient bundle method for nonsmooth derivative-free
+  optimization}\bibmark{[J]}\@. \bibjournal{Optimization, 61}\@,
+  \bibyear{2012}\@.
+
+\bibitem{bundlefree2}
+\bibauthor{LIUZZI G\@, LUCIDI S\@, RINALDI F, et~al}\@. \bibtitle{Trust-region
+  methods for the derivative-free optimization of nonsmooth black-box
+  functions}\bibmark{[J]}\@. \bibjournal{SIAM Journal on Optimization 29}\@,
+  \bibyear{2019}\@.
+
+\bibitem{comp55}
+\bibauthor{WILD S~M}\@. \bibtitle{Solving derivative-free nonlinear least
+  squares problems with POUNDERS, in Advances and Trends in Optimization with
+  Engineering Applications}\bibmark{[J]}\@. \bibjournal{SIAM}\@,
+  \bibyear{2017}\@.
+
+\bibitem{comp44}
+\bibauthor{MENICKELLY M\@, WILD S~M}\@. \bibtitle{Derivative-free robust
+  optimization by outer approximations}\bibmark{[J]}\@.
+  \bibjournal{Mathematical Programming, 179}\@, \bibyear{2020}\@.
+
+\bibitem{manifoldl1}
+\bibauthor{LARSON. J\@, MENICKELLY M\@, WILD S~M}\@. \bibtitle{Manifold
+  sampling for l1 nonconvex optimization}\bibmark{[J]}\@. \bibjournal{SIAM
+  Journal on Optimization, 26}\@, \bibyear{2016}\@.
+
+\bibitem{grasam1}
+\bibauthor{BURKE. J~V\@, CURTIS. F~E\@, LEWIS. A~S, et~al}\@.
+  \bibtitle{Gradient sampling methods for nonsmooth
+  optimization}\bibmark{[J]}\@. \bibjournal{Numerical Nonsmooth
+  Optimization}\@, \bibyear{2020}\@.
+
+\bibitem{grasam2}
+\bibauthor{BURKE. J~V\@, LEWIS A~S\@, OVERTON M~L}\@. \bibtitle{Approximating
+  subdifferentials by ran- dom sampling of gradients}\bibmark{[J]}\@.
+  \bibjournal{Mathematics of Operations Research}\@, \bibyear{2002}\@.
+
+\bibitem{manifoldpiecewiselinear}
+\bibauthor{KHAN. K~A\@, LARSON J\@, WILD S~M}\@. \bibtitle{Manifold sampling
+  for optimization of nonconvex functions that are piecewise linear
+  compositions of smooth components}\bibmark{[J]}\@. \bibjournal{SIAM Journal
+  on Optimization 28}\@, \bibyear{2018}\@.
+
+\bibitem{manifold}
+\bibauthor{LARSON. J\@, MENICKELLY. M\@, ZHOU B}\@. \bibtitle{Manifold Sampling
+  for Optimizing Nonsmooth Nonconvex Compositions}\bibmark{[J]}\@.
+  \bibjournal{https://arxiv.org/abs/2011.01283}\@, \bibyear{2020}\@.
+
+\bibitem{dfols}
+\bibauthor{CARTIS C\@, FIALA J\@, MARTEAU B, et~al}\@. \bibtitle{Improving the
+  Flexibility and Robustness of Model-Based Derivative-Free Optimization
+  Solvers}\bibmark{[J]}\@. \bibjournal{ACM Transactions on Mathematical
+  Software}\@, \bibyear{2019}\@, \bibvolume{45:3}\thinspace{}\textnormal{:
+  }\bibpages{32:1\thinspace{}\textnormal{--}\thinspace{}32:41}\@.
+
+\bibitem{benchmark}
+\bibauthor{KARMITSA N\@, MIETTINEN K\@, MAKELA M}\@. \bibtitle{New limited
+  memory bundle method for large-scale nonsmooth
+  optimization}\bibmark{[J/OL]}\@. \bibjournal{Optimization Methods and
+  Software - OPTIM METHOD SOFTW}\@, \bibyear{2004}\@,
+  \bibvolume{19}\thinspace{}\textnormal{:
+  }\bibpages{673\thinspace{}\textnormal{--}\thinspace{}692}\@.
+  \newline\url{http://dx.doi.org/10.1080/10556780410001689225}\@.
+
+\bibitem{lars}
+\bibauthor{EFRON B\@, HASTIE T\@, JOHNSTONE I, et~al}\@. \bibtitle{{Least angle
+  regression}}\bibmark{[J/OL]}\@. \bibjournal{The Annals of Statistics}\@,
+  \bibyear{2004}\@, \bibvolume{32}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{407 \thinspace{}\textnormal{--}\thinspace{} 499}\@.
+  \newline\url{https://doi.org/10.1214/009053604000000067}\@.
+
+\end{thebibliography}

@@ -1,10 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.19)  17 MAY 2021 14:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.19)  2 JUL 2022 12:30
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**Proposal.tex
-(./Proposal.tex
+**MS.tex
+(./MS.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -1016,9 +1015,8 @@ LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 243.
 Package: wrapfig 2003/01/31  v 3.6
 )
 \c@thm=\count356
-
-(./Proposal.aux)
-\openout1 = `Proposal.aux'.
+ (./MS.aux)
+\openout1 = `MS.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
@@ -1031,7 +1029,8 @@ LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
 3.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 73.
@@ -1110,9 +1109,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
- (./Proposal.out) (./Proposal.out)
+ (./MS.out) (./MS.out)
 \@outlinefile=\write4
-\openout4 = `Proposal.out'.
+\openout4 = `MS.out'.
 
 \c@lstlisting=\count358
 
@@ -1216,68 +1215,68 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 576.
 
-File: function.png Graphic file (type bmp)
-<function.png>
-File: npttime.png Graphic file (type bmp)
-<npttime.png>
-File: nptvalue.png Graphic file (type bmp)
-<nptvalue.png>
+File: figure/function.png Graphic file (type bmp)
+<figure/function.png>
+File: figure/npttime.png Graphic file (type bmp)
+<figure/npttime.png>
+File: figure/nptvalue.png Graphic file (type bmp)
+<figure/nptvalue.png>
 [9]
-File: timecompare.png Graphic file (type bmp)
-<timecompare.png>
-File: valuecompare.png Graphic file (type bmp)
-<valuecompare.png>
-File: function2.png Graphic file (type bmp)
-<function2.png>
-File: contour.png Graphic file (type bmp)
-<contour.png>
+File: figure/timecompare.png Graphic file (type bmp)
+<figure/timecompare.png>
+File: figure/valuecompare.png Graphic file (type bmp)
+<figure/valuecompare.png>
+File: figure/function2.png Graphic file (type bmp)
+<figure/function2.png>
+File: figure/contour.png Graphic file (type bmp)
+<figure/contour.png>
  [10]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 649.
+               Default added (so using `tbp') on input line 648.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 664.
+(Font)              using `TU/ptm/b/n' instead on input line 663.
 
 
-LaTeX Warning: Reference `ap4' on page 11 undefined on input line 710.
+LaTeX Warning: Reference `ap4' on page 11 undefined on input line 709.
 
-File: function3.png Graphic file (type bmp)
-<function3.png>
-File: contourtry.png Graphic file (type bmp)
-<contourtry.png>
+File: figure/function3.png Graphic file (type bmp)
+<figure/function3.png>
+File: figure/contourtry.png Graphic file (type bmp)
+<figure/contourtry.png>
 [11] [12]
-File: convergence1.png Graphic file (type bmp)
-<convergence1.png>
+File: figure/convergence1.png Graphic file (type bmp)
+<figure/convergence1.png>
  [13]
-File: loss.png Graphic file (type bmp)
-<loss.png>
- (./Proposal.bbl [14] [15]) [16]
+File: figure/loss.png Graphic file (type bmp)
+<figure/loss.png>
+ (./MS.bbl [14] [15]) [16]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 763.
-File: npttime2.png Graphic file (type bmp)
-<npttime2.png>
-File: nptvalue2.png Graphic file (type bmp)
-<nptvalue2.png>
+put line 762.
+File: figure/npttime2.png Graphic file (type bmp)
+<figure/npttime2.png>
+File: figure/nptvalue2.png Graphic file (type bmp)
+<figure/nptvalue2.png>
  [17]
-File: timecompare2.png Graphic file (type bmp)
-<timecompare2.png>
-File: valuecompare2.png Graphic file (type bmp)
-<valuecompare2.png>
+File: figure/timecompare2.png Graphic file (type bmp)
+<figure/timecompare2.png>
+File: figure/valuecompare2.png Graphic file (type bmp)
+<figure/valuecompare2.png>
  [18]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 998.
+               Default added (so using `tbp') on input line 997.
 
 [19] [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1022.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1022.
- (./Proposal.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1022.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1022.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1021.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1021.
+ (./MS.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1021.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1021.
 
-Package rerunfilecheck Info: File `Proposal.out' has not changed.
+Package rerunfilecheck Info: File `MS.out' has not changed.
 (rerunfilecheck)             Checksum: A4CB2BFD42E253738DF0206D09E7B438;1480.
 
 
@@ -1286,15 +1285,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1022.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1021.
  ) 
 Here is how much of TeX's memory you used:
- 31206 strings out of 479418
- 633438 string characters out of 5884585
- 934576 words of memory out of 5000000
+ 31207 strings out of 479418
+ 633862 string characters out of 5884585
+ 934585 words of memory out of 5000000
  48123 multiletter control sequences out of 15000+600000
  563205 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,22n,70p,1923b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,22n,70p,1917b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Proposal.pdf (20 pages).
+Output written on MS.pdf (20 pages).

@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MS.aux
+The style file: plain.bst
+Database file #1: MS.bib
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Cartis, C., Fiala, J., Marteau, B. and Roberts, L." for entry dfols
+while executing---line 1090 of file plain.bst
+You've used 34 entries,
+            2118 wiz_defined-function locations,
+            669 strings with 9226 characters,
+and the built_in function-call counts, 7901 in all, are:
+= -- 766
+> -- 343
+< -- 0
++ -- 145
+- -- 104
+* -- 389
+:= -- 1478
+add.period$ -- 102
+call.type$ -- 34
+change.case$ -- 154
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 343
+empty$ -- 612
+format.name$ -- 104
+if$ -- 1583
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 34
+newline$ -- 173
+num.names$ -- 68
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 250
+stack$ -- 0
+substring$ -- 259
+swap$ -- 34
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 136
+warning$ -- 0
+while$ -- 72
+width$ -- 36
+write$ -- 345
+(There were 6 error messages)

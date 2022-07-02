@@ -65,9 +65,9 @@
 
 
 \title{
-Draft
+ Manifold Sampling
 }
-\author{}
+\author{Yuheng Ma}
 \date{Summer 2020}
 
 \begin{document}
@@ -583,7 +583,7 @@ where h is $L^1$ norm and $\phi : \mathbb{R}^3 \to \mathbb{R}^2 $ is Rosenbrock 
 
 \begin{figure}[h]
 \centering
-\includegraphics[scale=.6]{function.png}
+\includegraphics[scale=.6]{figure/function.png}
 \caption{Function value w.r.t. $x_1$ and $x_2$.}
 \label{fig:function}
 \end{figure} 
@@ -592,12 +592,11 @@ Noting that this is generally convex, we don't post result about locally converg
 
 \begin{figure}[H]
 \centering
-
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{npttime.png}
+  \includegraphics[width=0.4\linewidth]{figure/npttime.png}
   }
   \subfigure{
-  \includegraphics[width=0.4\linewidth]{nptvalue.png}
+  \includegraphics[width=0.4\linewidth]{figure/nptvalue.png}
    }
    \caption{(Best viewed in color) Distribution of time and returned objective function value. Unsurprisingly, increasing number of points leads to more robust model with trade off in time. }
    \label{fig:npt}
@@ -609,10 +608,10 @@ We adopt two simple benchmarks. One is least square derivative free optimization
 \centering
 
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{timecompare.png}
+  \includegraphics[width=0.4\linewidth]{figure/timecompare.png}
   }
   \subfigure{
-  \includegraphics[width=0.5\linewidth]{valuecompare.png}
+  \includegraphics[width=0.5\linewidth]{figure/valuecompare.png}
    }
    \caption{(Best viewed in color) Comparison result of three model. Function value is viewed in log scale of difference with oracle obtained by grid search. MF achieves best precision in relatively short time. }
    \label{fig:compare}
@@ -629,10 +628,10 @@ This is a non-convex problem and its behavior around the origin is shown in \ref
 \centering
 
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{function2.png}
+  \includegraphics[width=0.4\linewidth]{figure/function2.png}
   }
   \subfigure{
-  \includegraphics[width=0.4\linewidth]{contour.png}
+  \includegraphics[width=0.4\linewidth]{figure/contour.png}
    }
    \caption{(Best viewed in color) Test function plotting. Left is plot of manifold around origin, right is contour plot of log value of test function. }
 \label{fig:function2}
@@ -713,10 +712,10 @@ We present the problem as before in Figure \ref{fig:function3} and solution in \
 \centering
 
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{function3.png}
+  \includegraphics[width=0.4\linewidth]{figure/function3.png}
   }
   \subfigure{
-  \includegraphics[width=0.4\linewidth]{contourtry.png}
+  \includegraphics[width=0.4\linewidth]{figure/contourtry.png}
    }
    \caption{(Best viewed in color) Test function plotting. Left is plot of manifold around origin, right is contour plot of log value of test function. The function has five local minimum, (0,0)(0,1)(0,-1)(2,3)(2,5)}
 \label{fig:function3}
@@ -727,7 +726,7 @@ We present the problem as before in Figure \ref{fig:function3} and solution in \
   \begin{figure}[H]
 \centering
 
-  \includegraphics[width=0.8\linewidth]{convergence1.png}
+  \includegraphics[width=0.8\linewidth]{figure/convergence1.png}
 
    \caption{(Best viewed in color) We note that in left picture there are many divergent trials still. This is due to searching parameters in \ref{minimize}. Since 1000 experiments are expensive to run, we could only adopt large search steps, which leads to $x^k$s jumping between two "slope" of loss surface. Given enough time and small search step, then would surely converge.}
 \label{fig:convergence}
@@ -741,14 +740,14 @@ For real data application, we use MS to do regression task using feed forward ne
   
   \begin{figure}[H]
 \centering
-  \includegraphics[width=0.8\linewidth]{loss.png}
+  \includegraphics[width=0.8\linewidth]{figure/loss.png}
    \caption{(Best viewed in color). Change of loss in log scale through time. MS rapidly finds minimum better than gradient descent. Note that as naive benchmark, we do not perform batch norm or learning rate tuning, which is unfair for MS since no hyper parameter tuning pipeline has been given. Oscillation of MS is due to that parameter set previously is no longer proper after it falls into region with higher "curvature". }
 \label{fig:loss}
 \end{figure}
 
 
 \bibliographystyle{plain}
-\bibliography{Proposal.bib}
+\bibliography{MS.bib}
 
 
 \newpage
@@ -844,10 +843,10 @@ Pseudo code of main part of manifold sampling is in \ref{algorithm1}. \ref{algor
 \centering
 
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{npttime2.png}
+  \includegraphics[width=0.4\linewidth]{figure/npttime2.png}
   }
   \subfigure{
-  \includegraphics[width=0.4\linewidth]{nptvalue2.png}
+  \includegraphics[width=0.4\linewidth]{figure/nptvalue2.png}
    }
    \caption{(Best viewed in color) Distribution of time and returned objective function value. There is one trial for npt=14 that broke down, which led to poor performance. }
    \label{fig:npt2}
@@ -858,10 +857,10 @@ Pseudo code of main part of manifold sampling is in \ref{algorithm1}. \ref{algor
 \centering
 
 \subfigure{
-  \includegraphics[width=0.4\linewidth]{timecompare2.png}
+  \includegraphics[width=0.4\linewidth]{figure/timecompare2.png}
   }
   \subfigure{
-  \includegraphics[width=0.5\linewidth]{valuecompare2.png}
+  \includegraphics[width=0.5\linewidth]{figure/valuecompare2.png}
    }
    \caption{(Best viewed in color) Comparison result of three model. Function value is viewed in log scale of difference with oracle obtained by grid search. MF achieves best precision in relatively short time. }
    \label{fig:compare2}
